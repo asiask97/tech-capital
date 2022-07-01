@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tech-crypto/static/css/main.9df4d29d.css",
+    "main.js": "/tech-crypto/static/js/main.baf45aff.js",
+    "static/media/bitmart.svg": "/tech-crypto/static/media/bitmart.fcbdde993b103c354dafeed80ab87b66.svg",
+    "static/media/kraken.svg": "/tech-crypto/static/media/kraken.67353ae0027e9b5f5ad332eb48a13541.svg",
+    "static/media/logoDark.svg": "/tech-crypto/static/media/logoDark.0058a4360bcae35766a2b75183854e67.svg",
+    "static/media/logoLight.svg": "/tech-crypto/static/media/logoLight.928f6aeea6aa7ce9e5fe3e3fb769dc37.svg",
+    "static/media/uphold.svg": "/tech-crypto/static/media/uphold.a4b9ebedce79ff5bdde2ba0a1cf10e7f.svg",
+    "static/media/etoro.svg": "/tech-crypto/static/media/etoro.903c4862fad4023b911f099154a9b56a.svg",
+    "static/media/coinbase.svg": "/tech-crypto/static/media/coinbase.24b8ea69592a08cb81ed841edcc3a5ad.svg",
+    "static/media/binance.svg": "/tech-crypto/static/media/binance.8a2e2ba43fbeade1518c075155334762.svg",
+    "static/media/cash-coin.svg": "/tech-crypto/static/media/cash-coin.fe1464015cd3f346e9b5e0215d99c54b.svg",
+    "static/media/linkedin.svg": "/tech-crypto/static/media/linkedin.2eda7bddaacee15c44494bb63ca94165.svg",
+    "index.html": "/tech-crypto/index.html",
+    "static/media/arrow.svg": "/tech-crypto/static/media/arrow.de7df644309d52fb19a7498396237474.svg",
+    "static/media/people-fill.svg": "/tech-crypto/static/media/people-fill.a6dccc2ad25ac8516e1ad5d695c2ebd3.svg",
+    "static/media/email.svg": "/tech-crypto/static/media/email.ceed57e9483391a79813f313693eb103.svg",
+    "static/media/headset.svg": "/tech-crypto/static/media/headset.bc07172905779d466642cf54729bffbc.svg",
+    "main.9df4d29d.css.map": "/tech-crypto/static/css/main.9df4d29d.css.map",
+    "main.baf45aff.js.map": "/tech-crypto/static/js/main.baf45aff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df4d29d.css",
+    "static/js/main.baf45aff.js"
+  ]
+}
