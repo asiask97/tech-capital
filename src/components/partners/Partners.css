@@ -1,0 +1,83 @@
+.Partners{
+    margin: 0 2em 0;
+    padding-top: 2em;
+
+}
+
+.Partners h2{
+    font-size: 2.7em;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.Partners .logos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Partners img{
+    width: 300px;
+    height: 100px;
+    padding: 2em 0;
+    visibility:hidden
+}
+
+.Partners .show{
+    animation: slide-in 2s forwards;
+    visibility: visible;
+}
+
+.Partners .test{
+    padding: 2em, 0;
+}
+
+@keyframes slide-in {
+    0% {
+        transform: translateX(100%); 
+
+    }
+    100% { 
+        transform: translateX(0%); 
+    }
+}
+
+/*==========  Mobile First   ==========*/
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+    .Partners{
+        display: grid;
+        width: 100vw;
+        margin: 0;
+        grid-template-columns: 5% 45% 45% 5%;
+        justify-items: center;
+
+    }
+
+    .Partners h2{
+        grid-column: 2/4;
+        justify-self: start;
+
+    }
+
+    .Partners .hiddenOne{
+        grid-column: 1/2;
+        grid-row: 1/8;
+    }
+    .Partners .hiddenTwo{
+        grid-column: 4/5;
+        grid-row: 1/8;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1300px) {
+    .Partners{
+        grid-template-columns: auto 580px 580px auto;
+    }
+} 
