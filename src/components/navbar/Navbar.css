@@ -1,0 +1,45 @@
+.Navbar {
+    position: fixed;
+    width: 100%;
+    margin: 0;
+    top:0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    box-sizing: border-box;
+    height: 10px;
+}
+.Navbar .wrapper{
+    background-color: var(--colorOne);
+    background-color: rgb(0, 0, 0);
+    transition: ease-in 0.5s;
+    position: relative;
+}
+.Navbar img{
+    align-self: center;
+    margin-top: 2px;
+    width: 15em;
+    margin-left: 10px;
+}
+/* STOPPING ANIMATION FROM GOING OFF ON WINDOW RESIZE */
+.resize-animation-stopper {
+    animation: none !important;
+    transition: none !important;
+}
+/*changes color of nav bar*/
+.activeNav{
+    background-color: rgb(255, 255, 255) !important;
+    transition: ease-in 0.5s;
+}
+/*==========  Mobile First   ==========*/
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+    
+}
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+}
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1300px) {
+
+}
