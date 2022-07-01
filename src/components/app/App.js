@@ -4,6 +4,7 @@ import Navbar from '../navbar/Navbar';
 import Hero from '../hero/Hero';
 import WhoWeAre from '../whoWeAre/WhoWeAre';
 import Partners from '../partners/Partners';
+import ContactUs from '../contactUs/ContactUs';
 function App() {
   return (
     <div className="App">
@@ -12,6 +13,7 @@ function App() {
         <div className='transtion'></div>
         <WhoWeAre/>
         <Partners/>
+        <ContactUs/>
     </div>
   );
 }
