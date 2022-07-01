@@ -1,3 +1,9 @@
 .App{
     font-size: 1em;
 }
+
+.App .transtion{
+    background: linear-gradient(180deg, var(--colorOne) 7%, black 100%);
+    padding: 15vh;
+    margin: 0;
+}

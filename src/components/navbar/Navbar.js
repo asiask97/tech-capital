@@ -35,7 +35,7 @@ function Navbar() {
   return (
     <div className="Navbar">
         <div id='wrapper' className={navbar ? 'activeNav wrapper' : 'wrapper'}>
-          <img className ='img' width ='20px' src={navbar ? logoBlack : logoWhite} alt='logo' onClick={handleClickNav}/>
+          <img className ='img' src={navbar ? logoBlack : logoWhite} alt='logo' onClick={handleClickNav}/>
         </div>
     </div>
   );
