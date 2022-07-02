@@ -3,8 +3,7 @@
     display: grid;
     flex-wrap: wrap;
     justify-content: center;
-    background-color:#a1b0b9;
-    /*#6CA1C2*/
+    background-color:#ffffff;
     margin-top: 5em;
     color: black;
     padding-top: 2em;
@@ -13,10 +12,6 @@
 
 .CarouselTeam .carousel-wrapper{
     width: 90vw;
-}
-
-.CarouselTeam .carousel button{
-    background: none;
 }
 
 .CarouselTeam h2{
@@ -50,21 +45,18 @@
 
 }
 
-.CarouselTeam .item .imageCircle{
-    width: 15em;
-    height: 15em;
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;
+.CarouselTeam .imageCircle{
     justify-self: center;
+
 }
+
 .CarouselTeam .item img{
     display: inline;
     position: relative;
-    bottom: 10px;
+    bottom: 0px;
     margin: 0 auto;
-    height: 23em;
-    width: 16em;
+    height: 20em;
+    width: 20em;
 }
 /*==========  Mobile First   ==========*/
 

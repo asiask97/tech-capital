@@ -7,3 +7,10 @@
     padding: 15vh;
     margin: 0;
 }
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1300px) {
+   .App{
+        font-size: 1.1em;
+    }
+} 

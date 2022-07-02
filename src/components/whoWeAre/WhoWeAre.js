@@ -37,7 +37,7 @@ function WhoWeAre() {
                     <br/>
                     Perhaps you are intersted in working for us? 
                 </p>
-                <button>Available Jobs</button>
+                <a href='#contactUs'><button>Available Jobs</button></a>
             </AnimationOnScroll> 
         </div>
 
@@ -52,7 +52,7 @@ function WhoWeAre() {
                     <br/>
                     Want to find out more now?
                 </p>
-                <button>Contact Support</button>
+                <a href='#contactUs'><button>Contact Support</button></a>
             </AnimationOnScroll> 
 
         </div>
