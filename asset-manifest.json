@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/tech-capital/static/css/main.7d37b7b2.css",
-    "main.js": "/tech-capital/static/js/main.d56d1271.js",
+    "main.css": "/tech-capital/static/css/main.668b7025.css",
+    "main.js": "/tech-capital/static/js/main.9cc5f263.js",
     "static/media/bitmart.svg": "/tech-capital/static/media/bitmart.fcbdde993b103c354dafeed80ab87b66.svg",
     "static/media/kraken.svg": "/tech-capital/static/media/kraken.67353ae0027e9b5f5ad332eb48a13541.svg",
     "static/media/logoDark.svg": "/tech-capital/static/media/logoDark.0058a4360bcae35766a2b75183854e67.svg",
@@ -17,11 +17,11 @@
     "static/media/people-fill.svg": "/tech-capital/static/media/people-fill.a6dccc2ad25ac8516e1ad5d695c2ebd3.svg",
     "static/media/email.svg": "/tech-capital/static/media/email.ceed57e9483391a79813f313693eb103.svg",
     "static/media/headset.svg": "/tech-capital/static/media/headset.bc07172905779d466642cf54729bffbc.svg",
-    "main.7d37b7b2.css.map": "/tech-capital/static/css/main.7d37b7b2.css.map",
-    "main.d56d1271.js.map": "/tech-capital/static/js/main.d56d1271.js.map"
+    "main.668b7025.css.map": "/tech-capital/static/css/main.668b7025.css.map",
+    "main.9cc5f263.js.map": "/tech-capital/static/js/main.9cc5f263.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d37b7b2.css",
-    "static/js/main.d56d1271.js"
+    "static/css/main.668b7025.css",
+    "static/js/main.9cc5f263.js"
   ]
 }
