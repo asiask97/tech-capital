@@ -11,28 +11,28 @@ import "animate.css/animate.min.css";
 function Partners() {
 
     return (
-    <div className="Partners" >
+    <div className="Partners">
         <h2>We work with:</h2>
         <div className='hiddenOne'></div>
         <div className='hiddenTwo'></div> 
 
         <AnimationOnScroll animateIn='animate__fadeInRight'>
-          <img src={binace}></img>
+          <img src={binace} alt='company logo'></img>
         </AnimationOnScroll>
         <AnimationOnScroll animateIn="animate__fadeInRight">
-          <img src={kraken}></img>
+          <img src={kraken}  alt='company logo'></img>
         </AnimationOnScroll>
         <AnimationOnScroll animateIn="animate__fadeInRight">
-          <img src={bitmart}></img>
+          <img src={bitmart} alt='company logo'></img>
         </AnimationOnScroll>
         <AnimationOnScroll animateIn="animate__fadeInRight">
-          <img src={coinbase}></img>
+          <img src={coinbase} alt='company logo'></img>
         </AnimationOnScroll>
         <AnimationOnScroll animateIn="animate__fadeInRight">
-          <img src={uphold}></img>
+          <img src={uphold} alt='company logo'></img>
         </AnimationOnScroll>
         <AnimationOnScroll animateIn="animate__fadeInRight">
-          <img src={etoro}></img>
+          <img src={etoro} alt='company logo'></img>
         </AnimationOnScroll>
 
     </div>

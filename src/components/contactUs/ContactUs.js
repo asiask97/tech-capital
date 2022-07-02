@@ -16,7 +16,7 @@ function ContactUs() {
                 </div>
                 <div className='contact_Info'>
                     <div className='contact_email_container'>
-                        <img src={email} alt='icon of email'></img>
+                        <img width='5em' src={email} alt='icon of email'></img>
                         <p>info@techcapital.com</p>
                     </div>
                     <div className='contact_linkedin_container'>

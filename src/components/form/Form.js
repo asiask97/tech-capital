@@ -94,7 +94,7 @@ function Form() {
                   setName(e.target.value);
                 }}
                 type="text" 
-                class="form_input name" 
+                className="form_input name" 
                 name="name" 
                 id="name" 
                 placeholder="Name" 
@@ -106,7 +106,7 @@ function Form() {
                   setEmail(e.target.value);
                 }}
                 type="text" 
-                class="form_input email" 
+                className="form_input email" 
                 name="email" 
                 id="email" 
                 placeholder="Email" 
@@ -117,8 +117,7 @@ function Form() {
                 onChange={ e => {
                   setMessage(e.target.value);
                 }}
-                name="message" 
-                class="form_input message" 
+                className="form_input message" 
                 id="message" 
                 cols="30" 
                 rows="6" 
@@ -136,7 +135,7 @@ function Form() {
                 onClick={handleSubmit} 
                 type="submit" 
                 value="Send Message" 
-                class="form_input send_message">
+                className="form_input send_message">
           </input>
         </div>
     </div>

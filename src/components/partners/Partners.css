@@ -83,5 +83,6 @@
 @media only screen and (min-width : 1300px) {
     .Partners{
         grid-template-columns: auto 580px 580px auto;
+        margin: 7em 0 0 0 ;
     }
 } 

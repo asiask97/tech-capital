@@ -5,6 +5,7 @@ import Hero from '../hero/Hero';
 import WhoWeAre from '../whoWeAre/WhoWeAre';
 import Partners from '../partners/Partners';
 import ContactUs from '../contactUs/ContactUs';
+import Footer from '../footer/Footer'
 function App() {
   return (
     <div className="App">
@@ -14,6 +15,7 @@ function App() {
         <WhoWeAre/>
         <Partners/>
         <ContactUs/>
+        <Footer/>
     </div>
   );
 }

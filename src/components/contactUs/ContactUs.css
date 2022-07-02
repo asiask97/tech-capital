@@ -28,7 +28,10 @@
    margin-right: 10px;
    height: 1em;
 }
-
+.ContactUs .contact_Info img{
+    width: 2em;
+    height: 1em;
+}
 .ContactUs .contact_email_container{
     border-top:1px solid rgb(206, 206, 206);
     padding-top: 20px;
