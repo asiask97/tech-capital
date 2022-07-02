@@ -6,13 +6,17 @@ import WhoWeAre from '../whoWeAre/WhoWeAre';
 import Partners from '../partners/Partners';
 import ContactUs from '../contactUs/ContactUs';
 import Footer from '../footer/Footer'
+import CarouselTeam from '../carouselTeam/CarouselTeam';
+import 'react-multi-carousel/lib/styles.css';
+
 function App() {
   return (
     <div className="App">
         <Navbar />
         <Hero />
         <div className='transtion'></div>
-        <WhoWeAre/>
+        <WhoWeAre/> 
+        <CarouselTeam/>
         <Partners/>
         <ContactUs/>
         <Footer/>
