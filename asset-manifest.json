@@ -1,8 +1,16 @@
 {
   "files": {
-    "main.css": "/tech-capital/static/css/main.668b7025.css",
-    "main.js": "/tech-capital/static/js/main.9cc5f263.js",
+    "main.css": "/tech-capital/static/css/main.2a3e351a.css",
+    "main.js": "/tech-capital/static/js/main.18468d6d.js",
+    "static/media/person2.jpg": "/tech-capital/static/media/person2.3808f863a2c592a3fb63.jpg",
+    "static/media/person3.jpg": "/tech-capital/static/media/person3.ea50b5c3f45fc4a7b7ce.jpg",
+    "static/media/person4.jpg": "/tech-capital/static/media/person4.65239f57371b674b8ccf.jpg",
+    "static/media/person1.jpg": "/tech-capital/static/media/person1.e2de0c206357a268fce9.jpg",
+    "static/media/person5.jpg": "/tech-capital/static/media/person5.586a4fbc3893fb8eb165.jpg",
+    "static/media/revicons.eot": "/tech-capital/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/tech-capital/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/bitmart.svg": "/tech-capital/static/media/bitmart.fcbdde993b103c354dafeed80ab87b66.svg",
+    "static/media/revicons.woff": "/tech-capital/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/kraken.svg": "/tech-capital/static/media/kraken.67353ae0027e9b5f5ad332eb48a13541.svg",
     "static/media/logoDark.svg": "/tech-capital/static/media/logoDark.0058a4360bcae35766a2b75183854e67.svg",
     "static/media/logoLight.svg": "/tech-capital/static/media/logoLight.928f6aeea6aa7ce9e5fe3e3fb769dc37.svg",
@@ -17,11 +25,11 @@
     "static/media/people-fill.svg": "/tech-capital/static/media/people-fill.a6dccc2ad25ac8516e1ad5d695c2ebd3.svg",
     "static/media/email.svg": "/tech-capital/static/media/email.ceed57e9483391a79813f313693eb103.svg",
     "static/media/headset.svg": "/tech-capital/static/media/headset.bc07172905779d466642cf54729bffbc.svg",
-    "main.668b7025.css.map": "/tech-capital/static/css/main.668b7025.css.map",
-    "main.9cc5f263.js.map": "/tech-capital/static/js/main.9cc5f263.js.map"
+    "main.2a3e351a.css.map": "/tech-capital/static/css/main.2a3e351a.css.map",
+    "main.18468d6d.js.map": "/tech-capital/static/js/main.18468d6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.668b7025.css",
-    "static/js/main.9cc5f263.js"
+    "static/css/main.2a3e351a.css",
+    "static/js/main.18468d6d.js"
   ]
 }
