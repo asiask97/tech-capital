@@ -66,7 +66,11 @@ function CarouselTeam() {
         >
             <div className='item'>
                 <div className='imageCircle'>
-                    <img src={personOne} alt='picture of one of our team member'></img>
+                    <picture>
+                        <source  type="image/avif" srcSet={require('../../assets/images/person1.avif')}></source>
+                        <source  type="image/webp" srcSet={require('../../assets/images/person1.webp')}></source>
+                        <img src={require('../../assets/images/person1.jpg')}  alt='picture of one of our team member'></img>
+                    </picture>
                 </div>
                 <h3>MANAGING PARTNER</h3>
                 <h4>Malachy Marriott</h4>
@@ -74,7 +78,11 @@ function CarouselTeam() {
             </div>
             <div className='item'>
                 <div className='imageCircle'>
-                    <img src={personTwo} alt='picture of one of our team member'></img>
+                    <picture>
+                        <source  type="image/avif" srcSet={require('../../assets/images/person2.avif')}></source>
+                        <source  type="image/webp" srcSet={require('../../assets/images/person2.webp')}></source>
+                        <img src={require('../../assets/images/person2.jpg')}  alt='picture of one of our team member'></img>
+                    </picture>
                 </div>
                 <h3>MANAGING PARTNER</h3>
                 <h4>Lacy Glenn</h4>
@@ -82,7 +90,11 @@ function CarouselTeam() {
             </div>
             <div className='item'>
                 <div className='imageCircle'>
-                    <img src={personThree} alt='picture of one of our team member'></img>
+                    <picture>
+                        <source  type="image/avif" srcSet={require('../../assets/images/person3.avif')}></source>
+                        <source  type="image/webp" srcSet={require('../../assets/images/person3.webp')}></source>
+                        <img src={require('../../assets/images/person3.jpg')}  alt='picture of one of our team member'></img>
+                    </picture>
                 </div>
                 <h3>HR MANAGER</h3>
                 <h4>Parris Collier</h4>
@@ -90,7 +102,11 @@ function CarouselTeam() {
             </div>
             <div className='item'>
                 <div className='imageCircle'>
-                    <img src={personFour} alt='picture of one of our team member'></img>
+                    <picture>
+                        <source  type="image/avif" srcSet={require('../../assets/images/person4.avif')}></source>
+                        <source  type="image/webp" srcSet={require('../../assets/images/person4.webp')}></source>
+                        <img src={require('../../assets/images/person4.jpg')}  alt='picture of one of our team member'></img>
+                    </picture>
                 </div>
                 <h3>FINANCE MANAGER</h3>
                 <h4>Ned Morton</h4>
@@ -98,7 +114,11 @@ function CarouselTeam() {
             </div>
             <div className='item'>
                 <div className='imageCircle'>
-                    <img src={personFife} alt='picture of one of our team member'></img>
+                    <picture>
+                        <source  type="image/avif" srcSet={require('../../assets/images/person5.avif')}></source>
+                        <source  type="image/webp" srcSet={require('../../assets/images/person5.webp')}></source>
+                        <img src={require('../../assets/images/person5.jpg')}  alt='picture of one of our team member'></img>
+                    </picture>
                 </div>
                 <h3>BUSINESS ANALYST</h3>
                 <h4>Eamon Hussain</h4>
