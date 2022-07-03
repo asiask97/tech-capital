@@ -1,10 +1,5 @@
 import './CarouselTeam.css'
 import Carousel from 'react-multi-carousel';
-import personOne from '../../assets/images/person1.jpg'
-import personTwo from '../../assets/images/person2.jpg'
-import personThree from '../../assets/images/person3.jpg'
-import personFour from '../../assets/images/person4.jpg'
-import personFife from '../../assets/images/person5.jpg'
 
 function CarouselTeam() {
   return (
@@ -69,7 +64,7 @@ function CarouselTeam() {
                     <picture>
                         <source  type="image/avif" srcSet={require('../../assets/images/person1.avif')}></source>
                         <source  type="image/webp" srcSet={require('../../assets/images/person1.webp')}></source>
-                        <img src={require('../../assets/images/person1.jpg')}  alt='picture of one of our team member'></img>
+                        <img src={require('../../assets/images/person1.jpg')}  alt='One of our team member'></img>
                     </picture>
                 </div>
                 <h3>MANAGING PARTNER</h3>
@@ -81,7 +76,7 @@ function CarouselTeam() {
                     <picture>
                         <source  type="image/avif" srcSet={require('../../assets/images/person2.avif')}></source>
                         <source  type="image/webp" srcSet={require('../../assets/images/person2.webp')}></source>
-                        <img src={require('../../assets/images/person2.jpg')}  alt='picture of one of our team member'></img>
+                        <img src={require('../../assets/images/person2.jpg')}  alt='One of our team member'></img>
                     </picture>
                 </div>
                 <h3>MANAGING PARTNER</h3>
@@ -93,7 +88,7 @@ function CarouselTeam() {
                     <picture>
                         <source  type="image/avif" srcSet={require('../../assets/images/person3.avif')}></source>
                         <source  type="image/webp" srcSet={require('../../assets/images/person3.webp')}></source>
-                        <img src={require('../../assets/images/person3.jpg')}  alt='picture of one of our team member'></img>
+                        <img src={require('../../assets/images/person3.jpg')}  alt='One of our team member'></img>
                     </picture>
                 </div>
                 <h3>HR MANAGER</h3>
@@ -105,7 +100,7 @@ function CarouselTeam() {
                     <picture>
                         <source  type="image/avif" srcSet={require('../../assets/images/person4.avif')}></source>
                         <source  type="image/webp" srcSet={require('../../assets/images/person4.webp')}></source>
-                        <img src={require('../../assets/images/person4.jpg')}  alt='picture of one of our team member'></img>
+                        <img src={require('../../assets/images/person4.jpg')}  alt='One of our team member'></img>
                     </picture>
                 </div>
                 <h3>FINANCE MANAGER</h3>
@@ -117,7 +112,7 @@ function CarouselTeam() {
                     <picture>
                         <source  type="image/avif" srcSet={require('../../assets/images/person5.avif')}></source>
                         <source  type="image/webp" srcSet={require('../../assets/images/person5.webp')}></source>
-                        <img src={require('../../assets/images/person5.jpg')}  alt='picture of one of our team member'></img>
+                        <img src={require('../../assets/images/person5.jpg')}  alt='One of our team member'></img>
                     </picture>
                 </div>
                 <h3>BUSINESS ANALYST</h3>
