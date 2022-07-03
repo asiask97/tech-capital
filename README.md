@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# TECH Capital - Website made with **React** frontend and **AWS serverless** backend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href='https://asiask97.github.io/tech-capital/'><img src='./src/documentation/main.gif' alt='gif of live website'></a>
 
-## Available Scripts
+### [Live Webiste](https://asiask97.github.io/tech-capital/)
 
-In the project directory, you can run:
+<br/>
+<br/>
 
-### `npm start`
+# Table of Contents
+    1. Introduction
+    2. Features
+    3. Testing
+    4. Credits
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Introduction 
+TECH Capital is an animated business card website for a medium company that is looking for investors. When creating this project I tried to keep in mind the target audience, the style of the website is elegant and simple. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Features 
+## Animations on Scroll
+When creating this website, I decided that some features would look better animated. I have included both types of animations, normal ones with CSS that fire on load (writing appearing on the hero section) and animations that fire when a user scrolls down the page (content moving in from side into view)
 
-### `npm test`
+<br/>
+<img src='./src/documentation/scroll.gif' alt='animations used on the website'>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To create animations like this I have used library react-animation-on-scroll which made the animations smooth and easy to implement.  
 
-### `npm run build`
+## Carousel 
+Carousel was made with react-responsive-carousel library which helped with quick creation of responsive component that with slight editing was perfectly scalable and original. 
+<br/>
+<img src='./src/documentation/carousel.gif' alt='carousel used on the website'>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Fully Functioning Form
+When deciding on a backend for this website I decided to go with serverless and AWS. I made this choice because it saves me from deploying a backend on to a server for such a small website. I used AWS because I was already familiar with this provider.  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Form is a fully working component that will send an email to the desired email address. Form functionality was made with AWS SES and it works through Gateway API. I have used Serverless to create this whole backend.  
+Google reCAPTCHA was added to the form to protect from email spamming and bots. I have also added it to my AWS serverless backend.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<img src='./src/documentation/form.png' alt='form'>
 
-### `npm run eject`
+# Testing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The website was only manually tested on Chrome dev tools to be responsive on all screens. 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+###  Lighthouse Testing
+Lighthouse testing was used to improve loading time and performance of the code. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<img src='./src/documentation/testing.png' alt='lighthouse desktop results'>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Credits
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Google fonts were used to pick out fonts relevant to the design.](https://fonts.google.com/) 
+- [Bootstrap icons were used in the footer](https://icons.getbootstrap.com/) 
+- [Images and videos from pexels.com](https://www.pexels.com/) 
+- [Animate on Scroll Library](https://www.npmjs.com/package/react-animation-on-scroll) 
+- [Carousel Library](https://www.npmjs.com/package/react-responsive-carousel) 
