@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tech-capital/static/css/main.d50b9ea6.css",
-    "main.js": "/tech-capital/static/js/main.b2aa3e17.js",
+    "main.js": "/tech-capital/static/js/main.708b1fd0.js",
     "static/media/person2.webp": "/tech-capital/static/media/person2.d9798a718c41485f5e8b.webp",
     "static/media/person2.jpg": "/tech-capital/static/media/person2.bd1322e2931f836d6c25.jpg",
     "static/media/person3.webp": "/tech-capital/static/media/person3.77137f116ea24829d149.webp",
@@ -29,17 +29,17 @@
     "static/media/coinbase.svg": "/tech-capital/static/media/coinbase.24b8ea69592a08cb81ed841edcc3a5ad.svg",
     "static/media/binance.svg": "/tech-capital/static/media/binance.8a2e2ba43fbeade1518c075155334762.svg",
     "static/media/cash-coin.svg": "/tech-capital/static/media/cash-coin.fe1464015cd3f346e9b5e0215d99c54b.svg",
-    "static/media/linkedin.svg": "/tech-capital/static/media/linkedin.2eda7bddaacee15c44494bb63ca94165.svg",
     "index.html": "/tech-capital/index.html",
+    "static/media/linkedin.svg": "/tech-capital/static/media/linkedin.2eda7bddaacee15c44494bb63ca94165.svg",
     "static/media/arrow.svg": "/tech-capital/static/media/arrow.de7df644309d52fb19a7498396237474.svg",
     "static/media/people-fill.svg": "/tech-capital/static/media/people-fill.a6dccc2ad25ac8516e1ad5d695c2ebd3.svg",
     "static/media/email.svg": "/tech-capital/static/media/email.ceed57e9483391a79813f313693eb103.svg",
     "static/media/headset.svg": "/tech-capital/static/media/headset.bc07172905779d466642cf54729bffbc.svg",
     "main.d50b9ea6.css.map": "/tech-capital/static/css/main.d50b9ea6.css.map",
-    "main.b2aa3e17.js.map": "/tech-capital/static/js/main.b2aa3e17.js.map"
+    "main.708b1fd0.js.map": "/tech-capital/static/js/main.708b1fd0.js.map"
   },
   "entrypoints": [
     "static/css/main.d50b9ea6.css",
-    "static/js/main.b2aa3e17.js"
+    "static/js/main.708b1fd0.js"
   ]
 }
