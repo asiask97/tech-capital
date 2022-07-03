@@ -1,17 +1,27 @@
 {
   "files": {
-    "main.css": "/tech-capital/static/css/main.6e98611b.css",
-    "main.js": "/tech-capital/static/js/main.1eda9a9a.js",
-    "static/media/person2.jpg": "/tech-capital/static/media/person2.167fa8037d8ad91bead7.jpg",
-    "static/media/person4.jpg": "/tech-capital/static/media/person4.92a2793e173004a7db9b.jpg",
-    "static/media/person3.jpg": "/tech-capital/static/media/person3.ccef6608fec8e3ce542c.jpg",
-    "static/media/person1.jpg": "/tech-capital/static/media/person1.91220f8284855e1ccafa.jpg",
-    "static/media/person5.jpg": "/tech-capital/static/media/person5.f9a6f116547dca56264b.jpg",
+    "main.css": "/tech-capital/static/css/main.d50b9ea6.css",
+    "main.js": "/tech-capital/static/js/main.b2aa3e17.js",
+    "static/media/person2.webp": "/tech-capital/static/media/person2.d9798a718c41485f5e8b.webp",
+    "static/media/person2.jpg": "/tech-capital/static/media/person2.bd1322e2931f836d6c25.jpg",
+    "static/media/person3.webp": "/tech-capital/static/media/person3.77137f116ea24829d149.webp",
+    "static/media/person4.webp": "/tech-capital/static/media/person4.cb79b8b9e82e191c1e41.webp",
+    "static/media/person4.jpg": "/tech-capital/static/media/person4.c3fbadb5cde9be56e08c.jpg",
+    "static/media/person3.jpg": "/tech-capital/static/media/person3.cb3ba749703ca6c24098.jpg",
+    "static/media/person1.webp": "/tech-capital/static/media/person1.655a7b6747d5f1038b94.webp",
+    "static/media/person1.jpg": "/tech-capital/static/media/person1.a9d5215220325babaf1c.jpg",
+    "static/media/person5.jpg": "/tech-capital/static/media/person5.2cbf2242a6f572602402.jpg",
+    "static/media/person5.webp": "/tech-capital/static/media/person5.99de65fbc81d575dcd68.webp",
+    "static/media/person2.avif": "/tech-capital/static/media/person2.83dca041c4361b9a5f1a.avif",
     "static/media/revicons.eot": "/tech-capital/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/tech-capital/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/person4.avif": "/tech-capital/static/media/person4.85a0e88a7f0f39e6fafe.avif",
+    "static/media/person3.avif": "/tech-capital/static/media/person3.6da3c0919fb05e3ad99e.avif",
+    "static/media/person1.avif": "/tech-capital/static/media/person1.fd8cfdd1d33e2f40ab66.avif",
     "static/media/bitmart.svg": "/tech-capital/static/media/bitmart.fcbdde993b103c354dafeed80ab87b66.svg",
     "static/media/revicons.woff": "/tech-capital/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/kraken.svg": "/tech-capital/static/media/kraken.67353ae0027e9b5f5ad332eb48a13541.svg",
+    "static/media/person5.avif": "/tech-capital/static/media/person5.8388d775db3d7726099b.avif",
     "static/media/logoDark.svg": "/tech-capital/static/media/logoDark.0058a4360bcae35766a2b75183854e67.svg",
     "static/media/logoLight.svg": "/tech-capital/static/media/logoLight.928f6aeea6aa7ce9e5fe3e3fb769dc37.svg",
     "static/media/uphold.svg": "/tech-capital/static/media/uphold.a4b9ebedce79ff5bdde2ba0a1cf10e7f.svg",
@@ -25,11 +35,11 @@
     "static/media/people-fill.svg": "/tech-capital/static/media/people-fill.a6dccc2ad25ac8516e1ad5d695c2ebd3.svg",
     "static/media/email.svg": "/tech-capital/static/media/email.ceed57e9483391a79813f313693eb103.svg",
     "static/media/headset.svg": "/tech-capital/static/media/headset.bc07172905779d466642cf54729bffbc.svg",
-    "main.6e98611b.css.map": "/tech-capital/static/css/main.6e98611b.css.map",
-    "main.1eda9a9a.js.map": "/tech-capital/static/js/main.1eda9a9a.js.map"
+    "main.d50b9ea6.css.map": "/tech-capital/static/css/main.d50b9ea6.css.map",
+    "main.b2aa3e17.js.map": "/tech-capital/static/js/main.b2aa3e17.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e98611b.css",
-    "static/js/main.1eda9a9a.js"
+    "static/css/main.d50b9ea6.css",
+    "static/js/main.b2aa3e17.js"
   ]
 }
